@@ -4,7 +4,7 @@
 - **Títol:** Activitat Pràctica - Treball amb repositori git i desplegament inicial
 - **Centre:** Institut Tecnològic Barcelona
 - **Professors:** Isaac Gonzalo / Miguel Ángel
-- **Data:** Octubre 2025
+- **Data:** Octubre 2026
 
 ## 👥 Equip de Treball
 - Eduardo Perales Bocanegra
